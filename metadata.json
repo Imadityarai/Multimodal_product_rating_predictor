@@ -1,0 +1,6 @@
+{
+  "name": "CLIP Multimodal Predictor",
+  "description": "An end-to-end PyTorch multimodal rating predictor using CLIP visual & textual features. Includes evaluation metrics, architecture source code, and a React dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
